@@ -1,0 +1,80 @@
+body{
+    background-color: #57b8bc;
+}
+
+img{
+    width: 18%;
+}
+
+input{
+    width: 70%;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 2px solid #044553;
+    margin: 5px;
+    padding: 5px;
+}
+
+button{
+    background-color: #152636;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+button:hover{
+    opacity:1;
+}
+
+/*input[type=text], input[type=password], select 
+{
+	width: 100%;
+	padding: 15px 50px;
+	margin: 8px 0;
+	display: inline-block;
+	box-sizing: border-box;
+    color:black;
+    font-size: 15px;
+}
+.button {
+    background-color: #C3C3C3;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 2px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.container 
+{
+	padding: 20px;
+}
+form
+{
+    background-color: #E5E5E5;
+    text-align: center;
+    border-radius: 9px;
+    padding: 50px;
+    font-size: 20px;
+    margin-left:15%;
+    margin-right:20%;
+    align-items: center;
+}
+table
+{
+    padding: 20px;
+}
+th
+{
+    text-align: left;
+}
+*/ 

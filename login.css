@@ -1,0 +1,82 @@
+body{
+    background: #57b8bc;
+}
+
+img{
+    width: 250px;
+    height: 225px;
+}
+
+.A{
+    background-color: #f2f2f2;
+    width: 500px;
+    border-radius: 25px;
+}/*first div inside login*/
+
+.pilih{
+    width: 50%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 5px;
+}/*selection admin n else*/
+
+.isi{
+    width: 70%;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 2px solid #044553;
+    margin: 5px;
+    padding: 5px;
+}/*username and password input*/
+
+button{
+    background: #152636;
+    width: 70%;
+    color: white;
+    text-align: center;
+    border-radius: 8px;
+    opacity: 0.9;
+    padding: 5px;
+
+}/*login button*/
+
+.button:hover {
+    opacity:1;
+}
+
+/*.form{
+    background: #f2f2f2;
+    width: 300px;
+    margin: auto;
+    padding: 50px; 
+    border-radius: 50px;
+    text-align: center;
+}
+.form input{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 2px solid #044553;
+    margin: 10px 0;
+}
+.form button{
+    background: #152636;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin: 20px 0;
+    border-radius: 8px;
+    opacity: 0.9;
+}
+.form button:hover {
+    opacity:1;
+}
+#type{
+    width: 50%;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}*/
